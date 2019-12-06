@@ -1,0 +1,1 @@
+17*17,1000,10,0.0001 eps decay, Reward structure modified
